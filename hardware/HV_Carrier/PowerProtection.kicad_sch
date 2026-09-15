@@ -5212,6 +5212,17 @@
 				)
 			)
 		)
+		(property "LCSC P/N" "C14663"
+			(at 129.54 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6ba7675f-70e1-4383-b79d-d0a5bbe78a63")
 		)
@@ -5289,6 +5300,17 @@
 			)
 		)
 		(property "Description" "Zener diode"
+			(at 43.18 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "SMAF4758A"
 			(at 43.18 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -6133,6 +6155,17 @@
 			)
 		)
 		(property "P/N" "MLASH168SB7104KTNA01"
+			(at 110.49 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC P/N" "C14663"
 			(at 110.49 90.17 90)
 			(hide yes)
 			(show_name no)

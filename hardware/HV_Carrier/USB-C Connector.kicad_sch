@@ -2153,6 +2153,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF5101T5E"
+			(at 90.17 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b38703e6-2a93-4c75-901a-3d4c44a0ef75")
 		)
@@ -2249,6 +2260,17 @@
 				)
 			)
 		)
+		(property "P/N" "0603WAF5101T5E"
+			(at 97.79 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fa534472-9dd0-4838-8e65-6de41aa77ce7")
 		)
@@ -2325,6 +2347,17 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 35.56 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "USB4105-GF-A-120"
 			(at 35.56 45.72 0)
 			(hide yes)
 			(show_name no)

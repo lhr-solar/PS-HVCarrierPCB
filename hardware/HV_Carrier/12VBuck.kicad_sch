@@ -9007,6 +9007,17 @@
 				)
 			)
 		)
+		(property "P/N" "LMR51635XDDCR"
+			(at 114.3 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6011ce5a-3383-413d-83ad-dfb47d8598c5")
 		)
@@ -9676,7 +9687,7 @@
 				)
 			)
 		)
-		(property "LCSC P/N" "C6666325"
+		(property "LCSC P/N" "C15849"
 			(at 102.87 88.9 0)
 			(hide yes)
 			(show_name no)

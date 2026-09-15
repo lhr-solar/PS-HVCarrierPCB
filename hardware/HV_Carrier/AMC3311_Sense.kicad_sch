@@ -1969,6 +1969,17 @@
 				)
 			)
 		)
+		(property "LCSC P/N" "C15849"
+			(at 198.12 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "008a2f15-586d-47af-90d9-d11fcc756b99")
 		)
@@ -2484,6 +2495,17 @@
 				)
 			)
 		)
+		(property "LCSC P/N" "C15849"
+			(at 184.15 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "acd9712a-530e-44ea-8402-86e87d57fbbf")
 		)
@@ -2680,6 +2702,17 @@
 			)
 		)
 		(property "P/N" "MLASH168SB7104KTNA01"
+			(at 99.06 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC P/N" "C15849"
 			(at 99.06 57.15 90)
 			(hide yes)
 			(show_name no)
@@ -3345,6 +3378,17 @@
 			)
 		)
 		(property "P/N" "MLASH168SB7104KTNA01"
+			(at 99.06 64.77 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC P/N" "C15849"
 			(at 99.06 64.77 90)
 			(hide yes)
 			(show_name no)

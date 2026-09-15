@@ -1563,6 +1563,17 @@
 				)
 			)
 		)
+		(property "LCSC P/N" "C25804"
+			(at 86.36 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8de6feea-dd3e-4613-96ad-3e579844d3b4")
 		)
@@ -1753,6 +1764,17 @@
 				)
 			)
 		)
+		(property "LCSC P/N" "C25804"
+			(at 67.31 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dc50fe33-3160-4c49-b061-e4f3e5eae1c6")
 		)
@@ -1933,6 +1955,17 @@
 			)
 		)
 		(property "P/N" "MLASH168SB7104KTNA01"
+			(at 170.18 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC P/N" "C14663"
 			(at 170.18 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -2246,6 +2279,17 @@
 				)
 			)
 		)
+		(property "LCSC P/N" "C25804"
+			(at 67.31 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f716092a-7436-4477-8624-ec1e1186f325")
 		)
@@ -2547,6 +2591,17 @@
 				)
 			)
 		)
+		(property "LCSC P/N" "C25804"
+			(at 66.04 63.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a3c75aea-1fc9-4a38-88f3-52aa7514a644")
 		)
@@ -2631,6 +2686,17 @@
 			)
 		)
 		(property "P/N" "CRCW060310K0FKEI"
+			(at 85.09 73.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC P/N" "C25804"
 			(at 85.09 73.66 90)
 			(hide yes)
 			(show_name no)
@@ -2821,6 +2887,17 @@
 			)
 		)
 		(property "P/N" "CRCW060310K0FKEI"
+			(at 66.04 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC P/N" "C25804"
 			(at 66.04 68.58 90)
 			(hide yes)
 			(show_name no)

@@ -56877,6 +56877,17 @@
 				)
 			)
 		)
+		(property "LCSC P/N" "C25804"
+			(at 77.47 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ff64b7c8-674a-44c7-852f-f9011cb623cb")
 		)
@@ -56958,6 +56969,17 @@
 			)
 		)
 		(property "P/N" "CRCW060310K0FKEI"
+			(at 171.45 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC P/N" "C25804"
 			(at 171.45 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -57058,6 +57080,17 @@
 				)
 			)
 		)
+		(property "LCSC P/N" "C14663"
+			(at 245.11 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2ce36519-a588-4f98-8cb2-976da96f13b3")
 		)
@@ -57138,7 +57171,7 @@
 				)
 			)
 		)
-		(property "P/N" "CR0603-JW-101ELF"
+		(property "P/N" "0603WAF1000T5E"
 			(at 154.94 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -57428,6 +57461,17 @@
 				)
 			)
 		)
+		(property "LCSC P/N" "C15849"
+			(at 52.07 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e5fc6891-e713-4a1d-bfe5-b8d679746513")
 		)
@@ -57511,7 +57555,7 @@
 				)
 			)
 		)
-		(property "P/N" "1053091105"
+		(property "P/N" "1053091104"
 			(at 142.24 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -57611,6 +57655,17 @@
 			)
 		)
 		(property "P/N" "MLASH168SB7104KTNA01"
+			(at 52.07 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC P/N" "C15849"
 			(at 52.07 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -58336,6 +58391,17 @@
 				)
 			)
 		)
+		(property "LCSC P/N" "C25804"
+			(at 171.45 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b68c54ee-ae43-4635-ad14-4a215081d9b0")
 		)
@@ -58407,6 +58473,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 186.69 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "1053091102"
 			(at 186.69 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -58568,6 +58645,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 223.52 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC P/N" "C25804"
+			(at 223.52 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "CRCW060310K0FKEI"
 			(at 223.52 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -58743,6 +58842,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 186.69 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "1053091102"
 			(at 186.69 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -59023,6 +59133,17 @@
 			)
 		)
 		(property "P/N" "MLASH168SB7104KTNA01"
+			(at 176.53 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC P/N" "C15849"
 			(at 176.53 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -60028,6 +60149,17 @@
 				)
 			)
 		)
+		(property "LCSC P/N" "C25804"
+			(at 189.23 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4ba77609-d1b2-4919-b6db-14018b6fb292")
 		)
@@ -60111,6 +60243,17 @@
 			)
 		)
 		(property "P/N" "MLASH168SB7104KTNA01"
+			(at 165.1 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC P/N" "C15849"
 			(at 165.1 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -60804,6 +60947,17 @@
 				)
 			)
 		)
+		(property "LCSC P/N" "C25804"
+			(at 77.47 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "391f034b-caa7-480c-a065-f9718bbe009f")
 		)
@@ -60921,7 +61075,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "90k"
+		(property "Value" "90.9k"
 			(at 226.06 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60955,6 +61109,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 223.52 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "P/N" "RMCF0603FT90K9"
 			(at 223.52 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -61045,7 +61210,7 @@
 				)
 			)
 		)
-		(property "P/N" "CR0603-JW-101ELF"
+		(property "P/N" "0603WAF1000T5E"
 			(at 154.94 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -61138,6 +61303,17 @@
 			)
 		)
 		(property "P/N" "CRCW060310K0FKEI"
+			(at 77.47 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC P/N" "C25804"
 			(at 77.47 33.02 90)
 			(hide yes)
 			(show_name no)
